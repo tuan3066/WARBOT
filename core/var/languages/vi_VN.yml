@@ -67,7 +67,7 @@ plugins.events.change_thread_image.reversed_t: "[ ANTI ALERT ]\nThay đổi ản
 plugins.events.change_thread_image.setNewImage: "\nThay đỏi ảnh nhóm không được cho phép nhưng vì không có ảnh cũ nên ảnh mới sẽ được dùng."
 
 plugins.events.subcribe.addSelf: " "
-plugins.events.subcribe.connected: "Cha đến rồi nè"
+plugins.events.subcribe.connected: "BOT • WAR | XIE Của Tuấn Đã Đến 🤪👈🏻"
 plugins.events.subcribe.error.createMonitor: "Không thể tạo nhóm giám sát cho nhóm này."
 plugins.events.subcribe.createdMonitor: "Nhóm {threadId} sẽ được giám sát hành động ở nhóm này"
 # plugins.events.subcribe.addMembers: "\"{authorName}\" ({authorId}) đã thêm {membersLength} thành viên:\n{members}"
